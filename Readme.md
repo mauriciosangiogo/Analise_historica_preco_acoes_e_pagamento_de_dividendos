@@ -20,7 +20,7 @@ Vamos usar aqui a biblioteca **yfinance**. O yfinance não é afiliado, ou verif
 Caso tenha interesse pelo assunto, tenho outro repositório disponível em que fiz uma análise mais aprofundada por ações individuais, permitindo exportar os dados em um PDF, nesse link: https://github.com/mauriciosangiogo/Analise-de-acoes-da-Bolsa-de-Valores-B3-com-Python.git.
 
 
-#**Valor médio das ações por ano**
+# **Valor médio das ações por ano**
 
 ## **Lista de Temas e Tópicos desse bloco (LTT):**
 
@@ -80,7 +80,7 @@ df.to_excel('precos_medios_anuais.xlsx', index=True)
 ```
 
 
-#**Total de dividendos pagos por cota de ação por ano.**
+# **Total de dividendos pagos por cota de ação por ano.**
 
 ## **Lista de Temas e Tópicos desse bloco (LTT):**
 

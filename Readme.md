@@ -16,4 +16,3 @@ Juntei aqui as principais empresas pagadoras de dividendos, segundo o site **Inv
 Vamos usar aqui a biblioteca **yfinance**. O yfinance não é afiliado, ou verificado pelo Yahoo, é apenas uma ferramenta de código aberto que usa APIs disponíveis publicamente do Yahoo e se destina a fins educacionais e de pesquisa.
 
 Caso tenha interesse pelo assunto, tenho outro repositório disponível em que fiz uma análise mais aprofundada por ações individuais, permitindo exportar os dados em um PDF, nesse link: https://github.com/mauriciosangiogo/Analise-de-acoes-da-Bolsa-de-Valores-B3-com-Python.git.
-# Analise_historica_preco_acoes_e_pagamento_de_dividendos

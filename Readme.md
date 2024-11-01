@@ -2,7 +2,6 @@
 # **ANÁLISE HISTÓRICA DO VALOR DE AÇÕES E PAGAMENTO DE DIVIDENDOS**
 ---
 
-# **Introdução**
 
 Nesse código vamos buscar dados históricos de valor de ações e dividendos pagos de uma série de ações listadas na bolsa de valores. Me limitei a um período de 10 anos, mas se interessando por período diferente, isso pode ser facilmente alterado no código.
 

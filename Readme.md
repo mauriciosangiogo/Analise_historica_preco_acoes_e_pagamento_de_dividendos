@@ -1,11 +1,8 @@
 ---
 # **ANÁLISE HISTÓRICA DO VALOR DE AÇÕES E PAGAMENTO DE DIVIDENDOS**
-
-<<<<<<< HEAD
-=======
 ---
+
 # **Introdução**
->>>>>>> e09d4fd (Atualizacao do README,md)
 
 Nesse código vamos buscar dados históricos de valor de ações e dividendos pagos de uma série de ações listadas na bolsa de valores. Me limitei a um período de 10 anos, mas se interessando por período diferente, isso pode ser facilmente alterado no código.
 
@@ -21,8 +18,6 @@ Juntei aqui as principais empresas pagadoras de dividendos, segundo o site **Inv
 Vamos usar aqui a biblioteca **yfinance**. O yfinance não é afiliado, ou verificado pelo Yahoo, é apenas uma ferramenta de código aberto que usa APIs disponíveis publicamente do Yahoo e se destina a fins educacionais e de pesquisa.
 
 Caso tenha interesse pelo assunto, tenho outro repositório disponível em que fiz uma análise mais aprofundada por ações individuais, permitindo exportar os dados em um PDF, nesse link: https://github.com/mauriciosangiogo/Analise-de-acoes-da-Bolsa-de-Valores-B3-com-Python.git.
-<<<<<<< HEAD
-=======
 
 
 #**Valor médio das ações por ano**
@@ -148,5 +143,3 @@ print(df)
 # 7 - Exportar para um arquivo .xlsx (opcional).
 df.to_excel('dividendos.xlsx', index=True)
 ```
-
->>>>>>> e09d4fd (Atualizacao do README,md)
